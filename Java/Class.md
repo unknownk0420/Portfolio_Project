@@ -1,5 +1,10 @@
-# Portfolio_Project
+Portfolio_Project
+=================
+강경운
+------
+k의 값이다.
 ````java
+
 import java.util.*;
 
 public class Main {
